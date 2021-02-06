@@ -1,0 +1,15 @@
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\bin\Debug\netcoreapp3.1\WebApi.Entity.deps.json
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\bin\Debug\netcoreapp3.1\WebApi.Entity.runtimeconfig.json
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\bin\Debug\netcoreapp3.1\WebApi.Entity.runtimeconfig.dev.json
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\bin\Debug\netcoreapp3.1\WebApi.Entity.dll
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\bin\Debug\netcoreapp3.1\WebApi.Entity.pdb
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\bin\Debug\netcoreapp3.1\WebApi.Domain.dll
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\bin\Debug\netcoreapp3.1\WebApi.Domain.pdb
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.csprojAssemblyReference.cache
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.AssemblyInfoInputs.cache
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.AssemblyInfo.cs
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.csproj.CoreCompileInputs.cache
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.csproj.CopyComplete
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.dll
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.pdb
+C:\Users\angel\source\repos\WebApi\WebApi.Entity\obj\Debug\netcoreapp3.1\WebApi.Entity.genruntimeconfig.cache

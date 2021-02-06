@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ePKEf8XR36uSFjrL2X9uOnXDVlaPu4lMyM81cGL/zoW3EEz6+BRxrm9IOY38012MM4r/yyCAcBMWsIdLNOzCfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\angel\\source\\repos\\WebApi\\WebApi.Service\\WebApi.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\angel\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
