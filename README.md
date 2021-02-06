@@ -23,3 +23,18 @@
    2- dotnet ef database update --project .\WebApi.Entity\WebApi.Entity.csproj --startup-project .\WebApi\WebApi.csproj
   </p>
     
+<h3>EndPoints</h3>
+<b>Produto<b/>
+  <small>GET - https://localhost:44302/api/product/{{id}}</small>
+ <small>GET - https://localhost:44302/api/product/</small>
+<small>DELETE - https://localhost:44302/api/product/{{id}}</small>
+<small>PUT - https://localhost:44302/api/product</small>
+<small>POST - https://localhost:44302/api/product</small>
+
+<b> Categoria<b/>
+<small>GET - https://localhost:44302/api/category/{{id}}</small>
+<small>GET - https://localhost:44302/api/category/</small>
+<small>DELETE - https://localhost:44302/api/category/{{id}}</small>
+<small>PUT - https://localhost:44302/api/category</small>
+<small>POST - https://localhost:44302/api/category</small>
+
