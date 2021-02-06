@@ -14,6 +14,7 @@
     <p> O projeto foi implementado com o uso de camadas (service e repository), cada uma com a sua devida responsabilidade. A service é responsável pela regra de negócios implementada; A repository é designada para o acesso ao banco de dados com entity framework. Cada uma possui uma interface para criar um acesso seguro a instância e aumentar a escalabilidade do projeto;</p>
     <p> Através da interface foi implementado a injenção de depêndencia nas classes para cada necessidade;</p>
     <p> Existe um crud generico criado para ser herdado por outras classes que possuem um cadastro básico, facilitando a implementação de possiveis entidades novas; (BaseRepository)</p>
+    <p> EndPoints documentados com swaggers</p>
   <hr/><br/>
     <p> Existe um backup dos dados cadastrados para teste no arquivo WebApi.backup. Para informações de como fazer o restore do backup acesse:
  https://blog.tecnospeed.com.br/backup-e-restore-postgresql/ </p>
@@ -22,19 +23,5 @@
    1- dotnet ef migrations add '<Nome da migration>' --project .\WebApi.Entity\WebApi.Entity.csproj --startup-project .\WebApi\WebApi.csproj<br/>
    2- dotnet ef database update --project .\WebApi.Entity\WebApi.Entity.csproj --startup-project .\WebApi\WebApi.csproj
   </p>
-    
-<h3>EndPoints</h3>
-<b>Produto<b/> <br/>
-<small>GET - https://localhost:44302/api/product/{{id}}</small> <br/>
-<small>GET - https://localhost:44302/api/product/</small> <br/>
-<small>DELETE - https://localhost:44302/api/product/{{id}}</small> <br/>
-<small>PUT - https://localhost:44302/api/product</small> <br/>
-<small>POST - https://localhost:44302/api/product</small> <br/>
 
-<b> Categoria<b/> <br/>
-<small>GET - https://localhost:44302/api/category/{{id}}</small> <br/>
-<small>GET - https://localhost:44302/api/category/</small> <br/>
-<small>DELETE - https://localhost:44302/api/category/{{id}}</small> <br/>
-<small>PUT - https://localhost:44302/api/category</small> <br/>
-<small>POST - https://localhost:44302/api/category</small> <br/>
 
